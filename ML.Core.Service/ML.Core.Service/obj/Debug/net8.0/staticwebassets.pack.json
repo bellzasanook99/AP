@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "PackagePath": "staticwebassets\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp"
+    },
+    {
+      "Id": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "PackagePath": "staticwebassets\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp"
+    },
+    {
+      "Id": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "PackagePath": "staticwebassets\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ML.Core.Service.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ML.Core.Service.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ML.Core.Service.props",
+      "PackagePath": "build\\ML.Core.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ML.Core.Service.props",
+      "PackagePath": "buildMultiTargeting\\ML.Core.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ML.Core.Service.props",
+      "PackagePath": "buildTransitive\\ML.Core.Service.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

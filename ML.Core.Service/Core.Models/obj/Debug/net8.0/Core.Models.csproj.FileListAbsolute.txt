@@ -1,0 +1,12 @@
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\bin\Debug\net8.0\Core.Models.deps.json
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\bin\Debug\net8.0\Core.Models.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\bin\Debug\net8.0\Core.Models.pdb
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\obj\Debug\net8.0\Core.Models.csproj.AssemblyReference.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\obj\Debug\net8.0\Core.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\obj\Debug\net8.0\Core.Models.AssemblyInfoInputs.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\obj\Debug\net8.0\Core.Models.AssemblyInfo.cs
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\obj\Debug\net8.0\Core.Models.csproj.CoreCompileInputs.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\obj\Debug\net8.0\Core.Models.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\obj\Debug\net8.0\refint\Core.Models.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\obj\Debug\net8.0\Core.Models.pdb
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Models\obj\Debug\net8.0\ref\Core.Models.dll

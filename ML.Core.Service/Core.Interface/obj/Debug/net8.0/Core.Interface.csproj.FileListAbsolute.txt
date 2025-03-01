@@ -1,0 +1,15 @@
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\bin\Debug\net8.0\Core.Interface.deps.json
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\bin\Debug\net8.0\Core.Interface.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\bin\Debug\net8.0\Core.Interface.pdb
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\bin\Debug\net8.0\Core.Database.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\bin\Debug\net8.0\Core.Database.pdb
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\Core.Interface.csproj.AssemblyReference.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\Core.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\Core.Interface.AssemblyInfoInputs.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\Core.Interface.AssemblyInfo.cs
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\Core.Interface.csproj.CoreCompileInputs.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\Core.Int.7710A754.Up2Date
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\Core.Interface.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\refint\Core.Interface.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\Core.Interface.pdb
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Interface\obj\Debug\net8.0\ref\Core.Interface.dll

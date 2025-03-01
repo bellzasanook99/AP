@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "EhXQo92V3qVhssMo5EXUGUhJlfkztln1+9Q7jLudxCE=",
+  "Source": "ML.Core.Service",
+  "BasePath": "_content/ML.Core.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ML.Core.Service\\wwwroot",
+      "Source": "ML.Core.Service",
+      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
+      "BasePath": "_content/ML.Core.Service",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "SourceId": "ML.Core.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
+      "BasePath": "_content/ML.Core.Service",
+      "RelativePath": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize#[.{fingerprint}]?.bmp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k11w1omm5m",
+      "Integrity": "SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp"
+    },
+    {
+      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "SourceId": "ML.Core.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
+      "BasePath": "_content/ML.Core.Service",
+      "RelativePath": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize#[.{fingerprint}]?.bmp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifmoez4ito",
+      "Integrity": "joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp"
+    },
+    {
+      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "SourceId": "ML.Core.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
+      "BasePath": "_content/ML.Core.Service",
+      "RelativePath": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize#[.{fingerprint}]?.bmp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9457ebaxg",
+      "Integrity": "Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2974953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.k11w1omm5m.bmp",
+      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2974953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k11w1omm5m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4010823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.ifmoez4ito.bmp",
+      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4010823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifmoez4ito"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5885135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.e9457ebaxg.bmp",
+      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5885135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/bmp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9457ebaxg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50="
+        }
+      ]
+    }
+  ]
+}

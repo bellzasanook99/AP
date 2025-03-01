@@ -1,0 +1,11 @@
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\bin\Debug\net8.0\Core.Common.deps.json
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\bin\Debug\net8.0\Core.Common.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\bin\Debug\net8.0\Core.Common.pdb
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.AssemblyInfoInputs.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.AssemblyInfo.cs
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\refint\Core.Common.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.pdb
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\ref\Core.Common.dll

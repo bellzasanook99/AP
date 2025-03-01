@@ -1,0 +1,6 @@
+@ML.Core.Service_HostAddress = http://localhost:5285
+
+GET {{ML.Core.Service_HostAddress}}/sawager/index
+Accept: application/json
+
+###

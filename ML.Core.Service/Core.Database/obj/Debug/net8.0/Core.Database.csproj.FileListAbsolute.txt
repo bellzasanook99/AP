@@ -1,0 +1,14 @@
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\bin\Debug\net8.0\Core.Database.deps.json
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\bin\Debug\net8.0\Core.Database.runtimeconfig.json
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\bin\Debug\net8.0\Core.Database.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\bin\Debug\net8.0\Core.Database.pdb
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\Core.Database.csproj.AssemblyReference.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\Core.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\Core.Database.AssemblyInfoInputs.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\Core.Database.AssemblyInfo.cs
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\Core.Database.csproj.CoreCompileInputs.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\Core.Database.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\refint\Core.Database.dll
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\Core.Database.pdb
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\Core.Database.genruntimeconfig.cache
+C:\Users\akeka\source\repos\ML.Core.Service\Core.Database\obj\Debug\net8.0\ref\Core.Database.dll

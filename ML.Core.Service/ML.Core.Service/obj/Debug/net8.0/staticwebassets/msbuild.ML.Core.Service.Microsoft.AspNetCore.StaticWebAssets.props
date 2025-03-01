@@ -1,0 +1,58 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ML.Core.Service</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ML.Core.Service</BasePath>
+      <RelativePath>uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>k11w1omm5m</Fingerprint>
+      <Integrity>SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ML.Core.Service</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ML.Core.Service</BasePath>
+      <RelativePath>uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ifmoez4ito</Fingerprint>
+      <Integrity>joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ML.Core.Service</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ML.Core.Service</BasePath>
+      <RelativePath>uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e9457ebaxg</Fingerprint>
+      <Integrity>Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
