@@ -17,6 +17,10 @@ public partial class TransFile
 
     public int? ItemNo { get; set; }
 
+    public int? MaxWidth { get; set; }
+
+    public int? MaxHeight { get; set; }
+
     public bool? IsRead { get; set; }
 
     public DateTime? CreaterDate { get; set; }

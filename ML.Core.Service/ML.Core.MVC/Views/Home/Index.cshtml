@@ -4,34 +4,111 @@
 @model Core.Models.MultipleFileUploadModel
 
 
-<h2>Upload Files</h2>
+
+
 
 @if (ViewBag.Message != null)
 {
+
     <div class="alert alert-info">@ViewBag.Message</div>
 }
 
-@if (ViewBag.UploadedFiles != null)
-{
-    <h3>Uploaded Files:</h3>
-    <ul>
-        @foreach (var file in ViewBag.UploadedFiles)
-        {
-            <li>@file</li>
-        }
-    </ul>
-}
 
 
-
-<form asp-action="Upload" asp-controller="Home" method="post" enctype="multipart/form-data">
-    <div class="form-group">
-        <label asp-for="Files"></label>
-        <input asp-for="Files" name="Files" type="file" multiple class="form-control" />
-        <span asp-validation-for="Files" class="text-danger"></span>
+<form asp-action="Index" asp-controller="Home" method="post" enctype="multipart/form-data" id="myForm">
+    <div id="drop-area">
+        <p>Drag and drop files here</p>
+        <input type="file" name="Files" id="file-input" multiple style="display: none;">
+        @*   <button id="browse-button">Browse</button> *@
     </div>
-    <div style="margin-bottom:1rem"></div>
-    <button type="submit" class="btn btn-primary">Upload</button>
+    <ul id="file-list"></ul>
+    <button type="submit" class="btn btn-gradient" style="width:100%">Digital Transform</button>
+
 </form>
 
+
+@* <form asp-action="simmulator" asp-controller="Home" method="post">
+<button type="submit" class="btn btn-gradient">Simmulator</button>
+</form> *@
+
+<div class="modal fade" id="loadingModal" tabindex="-1" role="dialog" aria-labelledby="loadingModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body text-center">
+                <div class="loading-spinner"></div>
+                <p class="mt-3">Loading...</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+
+      $(document).ready(function () {
+
+         $("#myForm").on("submit", function (e) {
+            e.preventDefault(); // Prevent the default form submission
+            $('#loadingModal').modal('show');
+
+          
+                const fileInput  = document.getElementById("file-input");
+                const files = fileInput.files;
+               const formData = new FormData();
+
+              formData.append('description', "testinput");
+
+            
+           if(files.length > 0)
+           {
+       for (let i = 0; i < files.length; i++) {
+           formData.append('files', files[i]); // Append each file to FormData
+              }
+           }
+    
+            $.ajax({
+                url: $(this).attr("action"),
+                type: $(this).attr("method"),
+                // data: $(this).serialize(),
+                 data: formData,
+                processData: false, // Don't process the data
+                contentType: false, // Don't set content type
+                success: function (response) {
+                   
+
+              
+                    if (response.success) {
+                    
+                           if (response.redirectUrl) {
+                           $('#loadingModal').modal('hide');
+                            window.location.href = response.redirectUrl; // เปลี่ยนเส้นทาง
+                        } else {
+                            // หากมีข้อผิดพลาด ให้แสดงข้อความผิดพลาด
+                            
+                            $('#myForm').html(response);
+                        }
+
+                       //  debugger;
+                       // $("#message").html("<div class='alert alert-success'>" + response.message + "</div>");
+                         // $('#loadingModal').modal('hide');
+                    } else {
+
+           
+                        $('#loadingModal').modal('hide');
+                        var errors = "";
+                        $.each(response.errors, function (index, value) {
+                            errors += "<div class='alert alert-danger'>" + value + "</div>";
+                        });
+                        // $("#message").html(errors);
+                    }
+                }
+            });
+        });
+    });
+  
+
+
+</script>
 

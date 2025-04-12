@@ -1,0 +1,16 @@
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\bin\Release\net8.0\Core.Models.deps.json
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\bin\Release\net8.0\Core.Models.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\bin\Release\net8.0\Core.Models.pdb
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\Core.Models.csproj.AssemblyReference.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\Core.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\Core.Models.AssemblyInfoInputs.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\Core.Models.AssemblyInfo.cs
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\Core.Models.csproj.CoreCompileInputs.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\Core.Models.sourcelink.json
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\Core.Models.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\refint\Core.Models.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\Core.Models.pdb
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\ref\Core.Models.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\bin\Release\net8.0\Core.Database.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\bin\Release\net8.0\Core.Database.pdb
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Models\obj\Release\net8.0\Core.Mod.22F3B633.Up2Date

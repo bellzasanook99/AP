@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KxNd990nlri5yyDZ7CAyUEEPOlLDl/gEbn+J+gq9DsA=",
+  "Hash": "/T3/XsjBfu08EH52po0HmyuuM2IGzTLXeDYJecNszL4=",
   "Source": "ML.Core.MVC",
   "BasePath": "_content/ML.Core.MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ML.Core.MVC\\wwwroot",
       "Source": "ML.Core.MVC",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ML.Core.MVC.styles.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ML.Core.MVC.styles.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "ML.Core.MVC#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "QzDHmzA2vFL+4HMdCyXPURk6vlpkEdsxSJevJ/FvxQQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ML.Core.MVC.styles.css"
+      "OriginalItemSpec": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ML.Core.MVC.styles.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ML.Core.MVC.bundle.scp.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ML.Core.MVC.bundle.scp.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "ML.Core.MVC#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "QzDHmzA2vFL+4HMdCyXPURk6vlpkEdsxSJevJ/FvxQQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ML.Core.MVC.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ML.Core.MVC.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\css\\site.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -73,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "vl1kjwf72w",
+      "Integrity": "3Zf+jyos4driBDTmU4+3rPBDueTVlnarrTv6PM9zCCc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\favicon.ico",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\js\\site.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -115,17 +115,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "s9n3yrilmk",
+      "Integrity": "kKZ5i+FnPehbCM/uUFj0Y0zX9/nGIe3xVkaedj4aYwk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1319,12 +1319,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\d9b97508-e86e-4fe9-af29-52a8a969c036.pdf",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
-      "RelativePath": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize#[.{fingerprint}]?.bmp",
+      "RelativePath": "uploads/d9b97508-e86e-4fe9-af29-52a8a969c036#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1333,19 +1333,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "k11w1omm5m",
-      "Integrity": "SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE=",
+      "Fingerprint": "aixe09yfqg",
+      "Integrity": "IkV6crPmjrk8EgCeO5gt7Pi98UVcUbnZghSKlDggKwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp"
+      "OriginalItemSpec": "wwwroot\\uploads\\d9b97508-e86e-4fe9-af29-52a8a969c036.pdf"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\processed_.jpg",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
-      "RelativePath": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize#[.{fingerprint}]?.bmp",
+      "RelativePath": "uploads/processed_#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1354,19 +1354,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ifmoez4ito",
-      "Integrity": "joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM=",
+      "Fingerprint": "9nl8pmns7i",
+      "Integrity": "lWCZRBCnplsnMW5nobXL+5joQGfMW2xBOCwIVG2kbsQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp"
+      "OriginalItemSpec": "wwwroot\\uploads\\processed_.jpg"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\processed1_.jpg",
       "SourceId": "ML.Core.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
       "BasePath": "_content/ML.Core.MVC",
-      "RelativePath": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize#[.{fingerprint}]?.bmp",
+      "RelativePath": "uploads/processed1_#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1375,62 +1375,80 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "e9457ebaxg",
-      "Integrity": "Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50=",
+      "Fingerprint": "esshs2v86i",
+      "Integrity": "/n/ym/YAYcQ+2An2HTYAeqP8f2FxYj+wpg5LznDJkbk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp"
+      "OriginalItemSpec": "wwwroot\\uploads\\processed1_.jpg"
+    },
+    {
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\test.csv",
+      "SourceId": "ML.Core.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "BasePath": "_content/ML.Core.MVC",
+      "RelativePath": "uploads/test#[.{fingerprint}]?.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "41kdak9q8b",
+      "Integrity": "WC+zyYg9lxPbaQNAok18CrIhFSaq78PbuGzBb+S3tQ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\test.csv"
+    },
+    {
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original - Copy.pdf",
+      "SourceId": "ML.Core.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "BasePath": "_content/ML.Core.MVC",
+      "RelativePath": "uploads/UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original - Copy#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ja3loszkd8",
+      "Integrity": "6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original - Copy.pdf"
+    },
+    {
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original.pdf",
+      "SourceId": "ML.Core.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\",
+      "BasePath": "_content/ML.Core.MVC",
+      "RelativePath": "uploads/UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ja3loszkd8",
+      "Integrity": "6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original.pdf"
     }
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 15:53:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1439,7 +1457,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "4158"
         },
         {
           "Name": "Content-Type",
@@ -1447,11 +1465,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"3Zf+jyos4driBDTmU4+3rPBDueTVlnarrTv6PM9zCCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 15:53:35 GMT"
+          "Value": "Mon, 17 Mar 2025 16:07:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1461,13 +1479,58 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-3Zf+jyos4driBDTmU4+3rPBDueTVlnarrTv6PM9zCCc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.vl1kjwf72w.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Zf+jyos4driBDTmU4+3rPBDueTVlnarrTv6PM9zCCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 16:07:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vl1kjwf72w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Zf+jyos4driBDTmU4+3rPBDueTVlnarrTv6PM9zCCc="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1512,7 +1575,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1549,7 +1612,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1558,7 +1621,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "2418"
         },
         {
           "Name": "Content-Type",
@@ -1566,11 +1629,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"kKZ5i+FnPehbCM/uUFj0Y0zX9/nGIe3xVkaedj4aYwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 15:53:35 GMT"
+          "Value": "Sun, 16 Mar 2025 09:08:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1580,13 +1643,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-kKZ5i+FnPehbCM/uUFj0Y0zX9/nGIe3xVkaedj4aYwk="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\js\\site.js",
+      "Route": "js/site.s9n3yrilmk.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1595,7 +1658,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "2418"
         },
         {
           "Name": "Content-Type",
@@ -1603,11 +1666,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"kKZ5i+FnPehbCM/uUFj0Y0zX9/nGIe3xVkaedj4aYwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 15:53:35 GMT"
+          "Value": "Sun, 16 Mar 2025 09:08:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1617,7 +1680,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "s9n3yrilmk"
         },
         {
           "Name": "label",
@@ -1625,13 +1688,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-kKZ5i+FnPehbCM/uUFj0Y0zX9/nGIe3xVkaedj4aYwk="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1668,7 +1731,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1713,7 +1776,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1750,7 +1813,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1795,7 +1858,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1832,7 +1895,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1877,7 +1940,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1914,7 +1977,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1959,7 +2022,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1996,7 +2059,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2041,7 +2104,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2078,7 +2141,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2123,7 +2186,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2160,7 +2223,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2205,7 +2268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2242,7 +2305,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2287,7 +2350,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2332,7 +2395,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2369,7 +2432,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2406,7 +2469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2451,7 +2514,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2488,7 +2551,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2533,7 +2596,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2570,7 +2633,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2615,7 +2678,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2652,7 +2715,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2697,7 +2760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2734,7 +2797,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2771,7 +2834,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2808,7 +2871,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2853,7 +2916,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2898,7 +2961,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2943,7 +3006,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2988,7 +3051,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3025,7 +3088,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3070,7 +3133,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3107,7 +3170,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3144,7 +3207,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3181,7 +3244,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3226,7 +3289,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3271,7 +3334,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3316,7 +3379,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3353,7 +3416,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3398,7 +3461,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3435,7 +3498,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3472,7 +3535,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3509,7 +3572,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3554,7 +3617,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3599,7 +3662,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3636,7 +3699,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3681,7 +3744,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3718,7 +3781,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3763,7 +3826,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3800,7 +3863,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3837,7 +3900,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3882,7 +3945,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3927,7 +3990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3964,7 +4027,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4009,7 +4072,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4046,7 +4109,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4083,7 +4146,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4128,7 +4191,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4165,7 +4228,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4210,7 +4273,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4255,7 +4318,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4292,7 +4355,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4337,7 +4400,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4374,7 +4437,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4419,7 +4482,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4464,7 +4527,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4501,7 +4564,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4546,7 +4609,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4583,7 +4646,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4620,7 +4683,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4665,7 +4728,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4702,7 +4765,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4747,7 +4810,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4784,7 +4847,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4821,7 +4884,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4866,7 +4929,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4911,7 +4974,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4948,7 +5011,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4993,7 +5056,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5030,7 +5093,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5067,7 +5130,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5104,7 +5167,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5149,7 +5212,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5194,7 +5257,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5239,7 +5302,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5276,7 +5339,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5321,7 +5384,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5366,7 +5429,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5403,7 +5466,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5448,7 +5511,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5493,7 +5556,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5530,7 +5593,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5567,7 +5630,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5612,7 +5675,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5649,7 +5712,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5694,7 +5757,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5731,7 +5794,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5776,7 +5839,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5813,7 +5876,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5850,7 +5913,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5895,7 +5958,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5932,7 +5995,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5977,7 +6040,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6014,7 +6077,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6059,7 +6122,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6104,7 +6167,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6141,7 +6204,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6186,7 +6249,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6223,7 +6286,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6268,7 +6331,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6305,7 +6368,7 @@
     },
     {
       "Route": "ML.Core.MVC.1z9le7ixr6.bundle.scp.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ML.Core.MVC.bundle.scp.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ML.Core.MVC.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6326,7 +6389,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:26:47 GMT"
+          "Value": "Sat, 12 Apr 2025 05:58:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6350,7 +6413,7 @@
     },
     {
       "Route": "ML.Core.MVC.1z9le7ixr6.styles.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ML.Core.MVC.styles.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ML.Core.MVC.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6371,7 +6434,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:26:47 GMT"
+          "Value": "Sat, 12 Apr 2025 05:58:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6395,7 +6458,7 @@
     },
     {
       "Route": "ML.Core.MVC.bundle.scp.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ML.Core.MVC.bundle.scp.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ML.Core.MVC.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6416,7 +6479,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:26:47 GMT"
+          "Value": "Sat, 12 Apr 2025 05:58:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6432,7 +6495,7 @@
     },
     {
       "Route": "ML.Core.MVC.styles.css",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ML.Core.MVC.styles.css",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ML.Core.MVC.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6453,7 +6516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:26:47 GMT"
+          "Value": "Sat, 12 Apr 2025 05:58:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6468,8 +6531,8 @@
       ]
     },
     {
-      "Route": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "Route": "uploads/d9b97508-e86e-4fe9-af29-52a8a969c036.aixe09yfqg.pdf",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\d9b97508-e86e-4fe9-af29-52a8a969c036.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6478,56 +6541,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2974953"
+          "Value": "393216"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/bmp"
+          "Value": "application/pdf"
         },
         {
           "Name": "ETag",
-          "Value": "\"SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE=\""
+          "Value": "\"IkV6crPmjrk8EgCeO5gt7Pi98UVcUbnZghSKlDggKwg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:44:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.k11w1omm5m.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2974953"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/bmp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:44:58 GMT"
+          "Value": "Mon, 17 Mar 2025 19:42:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6537,21 +6563,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k11w1omm5m"
+          "Value": "aixe09yfqg"
         },
         {
           "Name": "label",
-          "Value": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp"
+          "Value": "uploads/d9b97508-e86e-4fe9-af29-52a8a969c036.pdf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SK4RuR8RjyYML8xJwZ4VPLmYCakBvcJX7c50uqeSInE="
+          "Value": "sha256-IkV6crPmjrk8EgCeO5gt7Pi98UVcUbnZghSKlDggKwg="
         }
       ]
     },
     {
-      "Route": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "Route": "uploads/d9b97508-e86e-4fe9-af29-52a8a969c036.pdf",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\d9b97508-e86e-4fe9-af29-52a8a969c036.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6560,35 +6586,35 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4010823"
+          "Value": "393216"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/bmp"
+          "Value": "application/pdf"
         },
         {
           "Name": "ETag",
-          "Value": "\"joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM=\""
+          "Value": "\"IkV6crPmjrk8EgCeO5gt7Pi98UVcUbnZghSKlDggKwg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:44:58 GMT"
+          "Value": "Mon, 17 Mar 2025 19:42:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM="
+          "Value": "sha256-IkV6crPmjrk8EgCeO5gt7Pi98UVcUbnZghSKlDggKwg="
         }
       ]
     },
     {
-      "Route": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.ifmoez4ito.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "Route": "uploads/processed_.9nl8pmns7i.jpg",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\processed_.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6597,19 +6623,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4010823"
+          "Value": "659674"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/bmp"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM=\""
+          "Value": "\"lWCZRBCnplsnMW5nobXL+5joQGfMW2xBOCwIVG2kbsQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:44:58 GMT"
+          "Value": "Sun, 23 Mar 2025 12:37:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6619,21 +6645,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ifmoez4ito"
+          "Value": "9nl8pmns7i"
         },
         {
           "Name": "label",
-          "Value": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp"
+          "Value": "uploads/processed_.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-joGmOgjo2A0CdZKgj3mb7sd60I1kqwRvUZ5SZd4ooOM="
+          "Value": "sha256-lWCZRBCnplsnMW5nobXL+5joQGfMW2xBOCwIVG2kbsQ="
         }
       ]
     },
     {
-      "Route": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "Route": "uploads/processed_.jpg",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\processed_.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6642,19 +6668,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5885135"
+          "Value": "659674"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/bmp"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50=\""
+          "Value": "\"lWCZRBCnplsnMW5nobXL+5joQGfMW2xBOCwIVG2kbsQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:44:58 GMT"
+          "Value": "Sun, 23 Mar 2025 12:37:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6664,13 +6690,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50="
+          "Value": "sha256-lWCZRBCnplsnMW5nobXL+5joQGfMW2xBOCwIVG2kbsQ="
         }
       ]
     },
     {
-      "Route": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.e9457ebaxg.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "Route": "uploads/processed1_.esshs2v86i.jpg",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\processed1_.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6679,19 +6705,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5885135"
+          "Value": "4271656"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/bmp"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50=\""
+          "Value": "\"/n/ym/YAYcQ+2An2HTYAeqP8f2FxYj+wpg5LznDJkbk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 19:44:58 GMT"
+          "Value": "Sun, 23 Mar 2025 12:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6701,15 +6727,298 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e9457ebaxg"
+          "Value": "esshs2v86i"
         },
         {
           "Name": "label",
-          "Value": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp"
+          "Value": "uploads/processed1_.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Lsyu/ynt8Iv3Wt0VBEFdSpeCUhGOOa5l49gZg8cwW50="
+          "Value": "sha256-/n/ym/YAYcQ+2An2HTYAeqP8f2FxYj+wpg5LznDJkbk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/processed1_.jpg",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\processed1_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4271656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/n/ym/YAYcQ+2An2HTYAeqP8f2FxYj+wpg5LznDJkbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 12:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/n/ym/YAYcQ+2An2HTYAeqP8f2FxYj+wpg5LznDJkbk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/test.41kdak9q8b.csv",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\test.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WC+zyYg9lxPbaQNAok18CrIhFSaq78PbuGzBb+S3tQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 18:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "41kdak9q8b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/test.csv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WC+zyYg9lxPbaQNAok18CrIhFSaq78PbuGzBb+S3tQ4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/test.csv",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\test.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WC+zyYg9lxPbaQNAok18CrIhFSaq78PbuGzBb+S3tQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 18:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WC+zyYg9lxPbaQNAok18CrIhFSaq78PbuGzBb+S3tQ4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original - Copy.ja3loszkd8.pdf",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original - Copy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "817782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 17:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ja3loszkd8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original - Copy.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original - Copy.pdf",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original - Copy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "817782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 17:19:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original.ja3loszkd8.pdf",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "817782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 17:18:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ja3loszkd8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original.pdf",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\wwwroot\\uploads\\UBO-UBPG-PRO-PID-WPT-0000-00113-01-H01_Original.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "817782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 17:18:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6zu5MerWJ1cbb7UvMI3k6rWQXTOhKvSzBqqGQhq6Y9s="
         }
       ]
     }

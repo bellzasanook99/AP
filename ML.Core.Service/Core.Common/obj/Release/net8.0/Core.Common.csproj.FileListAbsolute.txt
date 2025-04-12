@@ -1,0 +1,12 @@
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\bin\Release\net8.0\Core.Common.deps.json
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\bin\Release\net8.0\Core.Common.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\bin\Release\net8.0\Core.Common.pdb
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Release\net8.0\Core.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Release\net8.0\Core.Common.AssemblyInfoInputs.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Release\net8.0\Core.Common.AssemblyInfo.cs
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Release\net8.0\Core.Common.csproj.CoreCompileInputs.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Release\net8.0\Core.Common.sourcelink.json
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Release\net8.0\Core.Common.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Release\net8.0\refint\Core.Common.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Release\net8.0\Core.Common.pdb
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Release\net8.0\ref\Core.Common.dll

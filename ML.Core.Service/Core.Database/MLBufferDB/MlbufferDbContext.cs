@@ -58,7 +58,6 @@ public partial class MlbufferDbContext : DbContext
                 .HasMaxLength(500)
                 .IsUnicode(false);
             entity.Property(e => e.IsRead).HasDefaultValue(false);
-            entity.Property(e => e.ItemNo).HasColumnName("Item_No");
             entity.Property(e => e.TransId).HasColumnName("Trans_Id");
 
             entity.HasOne(d => d.Trans).WithMany(p => p.TransFiles)
@@ -73,11 +72,20 @@ public partial class MlbufferDbContext : DbContext
             entity.Property(e => e.CreatedDate)
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime");
-            entity.Property(e => e.ItemNo).HasColumnName("Item_No");
+            entity.Property(e => e.Hocr)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("HOcr");
+            entity.Property(e => e.Locr)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("LOcr");
             entity.Property(e => e.RecDrawingNo)
                 .HasMaxLength(150)
                 .IsUnicode(false);
-            entity.Property(e => e.TransId).HasColumnName("Trans_Id");
+            entity.Property(e => e.SymbolType)
+                .HasMaxLength(50)
+                .IsUnicode(false);
 
             entity.HasOne(d => d.File).WithMany(p => p.TransPages)
                 .HasForeignKey(d => d.FileId)

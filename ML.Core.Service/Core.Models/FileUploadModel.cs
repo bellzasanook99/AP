@@ -13,6 +13,12 @@ namespace Core.Models
     }
     public class MultipleFileUploadModel
     {
+        public string Description { get; set; }
         public List<IFormFile> Files { get; set; }
+    }
+    public class FilesList
+    {
+        public string FullPath { get; set; }
+        public string FileName { get; set; }
     }
 }

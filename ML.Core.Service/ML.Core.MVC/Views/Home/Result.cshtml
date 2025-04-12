@@ -1,0 +1,117 @@
+﻿@using Core.Database.MLBufferDB
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Core.Database.MLBufferDB.Aproject
+
+
+<p>@Model.ProjectNo</p>
+
+<div class="form-group">
+
+
+    <table class="table table-hover table-responsive-sm table-bordered">
+        <thead class="thead-light">
+            <tr>
+                <th hidden>Id</th>
+                <th>DocNo</th>
+                <th>Tag Count</th>
+                <th>View</th>
+                <th>Download</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @if (@Model.Transactions != null)
+            {
+                foreach (Transaction item in @Model.Transactions)
+                {
+                    foreach (TransFile tf in item.TransFiles)
+                    {
+
+                        <tr>
+
+                        <td hidden>@item.Id</td>
+                        <td>@tf.DocNo</td>
+                        <td>@tf.TransPages.Count</td>
+                         <td>
+                                @Html.ActionLink("Simulator File", "DownloadSimulator", "Home", new { fileId = @tf.Id }, null)
+                         </td>
+                       @*      <td><a class="submitButton" onclick="downloadfile(@tf.Id)">DownloadFile</a></td> *@
+                            <td>
+
+                                @Html.ActionLink("Download File", "DownloadFileAny", "Home", new { fileId = @tf.Id }, null)
+                            </td>
+
+
+                    </tr>
+                    }
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+
+
+
+    function downloadfile(id)
+    {
+                 $.ajax({
+                url: "@Url.Action("DownloadFile", "Home")", // Controller action URL
+                type: "POST", // HTTP method
+                data: { fileId: id }, // Data to send
+                 xhrFields: {
+                        responseType: 'blob' // Set the response type to blob
+                    },
+                    success: function (data, status, xhr) {
+
+                          var contentDisposition = xhr.getResponseHeader("Content-Disposition");
+                        var filename = "download.csv"; // Default filename
+                        if (contentDisposition && contentDisposition.indexOf("filename=") !== -1) {
+                            filename = contentDisposition.split("filename=")[1].split(";")[0];
+                        }
+
+
+                        // Create a link element to trigger the download
+                        var a = document.createElement('a');
+                        var url = window.URL.createObjectURL(data);
+                        a.href = url;
+                        a.download = filename; // Set the file name
+                        document.body.appendChild(a);
+                        a.click();
+                        window.URL.revokeObjectURL(url);
+                        document.body.removeChild(a);
+                    },
+                    error: function () {
+                        alert("An error occurred.");
+                    }
+            });
+    }
+
+    //     $(document).ready(function () {
+    //     $("#submitButton").click(function () {
+    //         var input = $("#inputData").val(); // Get input value
+
+    //         // Make an AJAX POST request
+    //         $.ajax({
+    //             url: "@Url.Action("DownloadFile", "Home")", // Controller action URL
+    //             type: "POST", // HTTP method
+    //             data: { input: input }, // Data to send
+    //             success: function (response) {
+    //                 // Update the page with the response
+    //                 $("#result").text(response);
+    //             },
+    //             error: function () {
+    //                 alert("An error occurred.");
+    //             }
+    //         });
+    //     });
+    // });
+
+
+</script>

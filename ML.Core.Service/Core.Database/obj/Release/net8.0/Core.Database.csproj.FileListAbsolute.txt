@@ -1,0 +1,15 @@
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\bin\Release\net8.0\Core.Database.deps.json
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\bin\Release\net8.0\Core.Database.runtimeconfig.json
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\bin\Release\net8.0\Core.Database.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\bin\Release\net8.0\Core.Database.pdb
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\Core.Database.csproj.AssemblyReference.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\Core.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\Core.Database.AssemblyInfoInputs.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\Core.Database.AssemblyInfo.cs
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\Core.Database.csproj.CoreCompileInputs.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\Core.Database.sourcelink.json
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\Core.Database.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\refint\Core.Database.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\Core.Database.pdb
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\Core.Database.genruntimeconfig.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Database\obj\Release\net8.0\ref\Core.Database.dll

@@ -7,10 +7,6 @@ public partial class TransPage
 {
     public int Id { get; set; }
 
-    public int? TransId { get; set; }
-
-    public int? ItemNo { get; set; }
-
     public int? FileId { get; set; }
 
     public int? Width { get; set; }
@@ -20,6 +16,12 @@ public partial class TransPage
     public int? Px { get; set; }
 
     public int? Py { get; set; }
+
+    public string? SymbolType { get; set; }
+
+    public string? Hocr { get; set; }
+
+    public string? Locr { get; set; }
 
     public string? RecDrawingNo { get; set; }
 

@@ -9,3 +9,15 @@ C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Co
 C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\refint\Core.Common.dll
 C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.pdb
 C:\Users\akeka\source\repos\ML.Core.Service\Core.Common\obj\Debug\net8.0\ref\Core.Common.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\bin\Debug\net8.0\Core.Common.deps.json
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\bin\Debug\net8.0\Core.Common.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\bin\Debug\net8.0\Core.Common.pdb
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.AssemblyInfoInputs.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.AssemblyInfo.cs
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.csproj.CoreCompileInputs.cache
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.sourcelink.json
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Debug\net8.0\refint\Core.Common.dll
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Debug\net8.0\Core.Common.pdb
+D:\Develop\gitbot\AP\ML.Core.Service\Core.Common\obj\Debug\net8.0\ref\Core.Common.dll

@@ -7,8 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Accord" Version="3.8.0" />
+    <PackageReference Include="Accord.Imaging" Version="3.8.0" />
+    <PackageReference Include="Accord.MachineLearning" Version="3.8.0" />
+    <PackageReference Include="Accord.Math" Version="3.8.0" />
+    <PackageReference Include="Accord.Statistics" Version="3.8.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="OpenCvSharp4" Version="4.10.0.20241108" />
+    <PackageReference Include="OpenCvSharp4.runtime.win" Version="4.10.0.20241108" />
+    <PackageReference Include="SautinSoft.PdfFocus" Version="2024.12.18" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Core.Database\Core.Database.csproj" />
     <ProjectReference Include="..\Core.Interface\Core.Interface.csproj" />
+    <ProjectReference Include="..\Core.Models\Core.Models.csproj" />
   </ItemGroup>
 
 </Project>

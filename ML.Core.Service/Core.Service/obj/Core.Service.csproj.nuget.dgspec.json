@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Service\\Core.Service.csproj": {}
+    "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\Core.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\Core.Database.csproj": {
+    "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\Core.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\Core.Database.csproj",
+        "projectUniqueName": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\Core.Database.csproj",
         "projectName": "Core.Database",
-        "projectPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\Core.Database.csproj",
+        "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\Core.Database.csproj",
         "packagesPath": "C:\\Users\\akeka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\obj\\",
+        "outputPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -72,6 +72,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.13, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.13, )"
             }
           },
           "imports": [
@@ -94,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj": {
+    "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj",
+        "projectUniqueName": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj",
         "projectName": "Core.Interface",
-        "projectPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj",
+        "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj",
         "packagesPath": "C:\\Users\\akeka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Interface\\obj\\",
+        "outputPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -125,8 +129,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\Core.Database.csproj": {
-                "projectPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\Core.Database.csproj"
+              "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\Core.Database.csproj": {
+                "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\Core.Database.csproj"
+              },
+              "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\Core.Models.csproj": {
+                "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\Core.Models.csproj"
               }
             }
           }
@@ -166,14 +173,14 @@
         }
       }
     },
-    "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Service\\Core.Service.csproj": {
+    "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\Core.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Service\\Core.Service.csproj",
-        "projectName": "Core.Service",
-        "projectPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Service\\Core.Service.csproj",
+        "projectUniqueName": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\Core.Models.csproj",
+        "projectName": "Core.Models",
+        "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\Core.Models.csproj",
         "packagesPath": "C:\\Users\\akeka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Service\\obj\\",
+        "outputPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -197,11 +204,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\Core.Database.csproj": {
-                "projectPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\Core.Database.csproj"
-              },
-              "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj": {
-                "projectPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj"
+              "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\Core.Database.csproj": {
+                "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\Core.Database.csproj"
               }
             }
           }
@@ -221,6 +225,132 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\Core.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\Core.Service.csproj",
+        "projectName": "Core.Service",
+        "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\Core.Service.csproj",
+        "packagesPath": "C:\\Users\\akeka\\.nuget\\packages\\",
+        "outputPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akeka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\Core.Database.csproj": {
+                "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Database\\Core.Database.csproj"
+              },
+              "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj": {
+                "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\Core.Interface.csproj"
+              },
+              "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\Core.Models.csproj": {
+                "projectPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\Core.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Accord": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Accord.Imaging": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Accord.MachineLearning": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Accord.Math": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Accord.Statistics": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.10.0.20241108, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.10.0.20241108, )"
+            },
+            "SautinSoft.PdfFocus": {
+              "target": "Package",
+              "version": "[2024.12.18, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

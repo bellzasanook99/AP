@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EhXQo92V3qVhssMo5EXUGUhJlfkztln1+9Q7jLudxCE=",
+  "Hash": "X3GHvzqoU8yCOX6M5zCfTyknMIqiyyU2FhotPLpQceU=",
   "Source": "ML.Core.Service",
   "BasePath": "_content/ML.Core.Service",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ML.Core.Service\\wwwroot",
       "Source": "ML.Core.Service",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
       "BasePath": "_content/ML.Core.Service",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
       "SourceId": "ML.Core.Service",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
       "BasePath": "_content/ML.Core.Service",
       "RelativePath": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize#[.{fingerprint}]?.bmp",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
       "SourceId": "ML.Core.Service",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
       "BasePath": "_content/ML.Core.Service",
       "RelativePath": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize#[.{fingerprint}]?.bmp",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp"
     },
     {
-      "Identity": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "Identity": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
       "SourceId": "ML.Core.Service",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
+      "ContentRoot": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\",
       "BasePath": "_content/ML.Core.Service",
       "RelativePath": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize#[.{fingerprint}]?.bmp",
       "AssetKind": "All",
@@ -83,7 +83,7 @@
   "Endpoints": [
     {
       "Route": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -120,7 +120,7 @@
     },
     {
       "Route": "uploads/Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.k11w1omm5m.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0bead472-69b7-4d60-8c1d-91c8ea320b32_ReSize.bmp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -165,7 +165,7 @@
     },
     {
       "Route": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -202,7 +202,7 @@
     },
     {
       "Route": "uploads/Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.ifmoez4ito.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c2147a1-dc95-4eb2-a22a-19899f46a3eb_ReSize.bmp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -247,7 +247,7 @@
     },
     {
       "Route": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -284,7 +284,7 @@
     },
     {
       "Route": "uploads/Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.e9457ebaxg.bmp",
-      "AssetFile": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
+      "AssetFile": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.Service\\wwwroot\\uploads\\Page1_0c432026-4ddd-40c6-a8e1-d4879feacd4f_ReSize.bmp",
       "Selectors": [],
       "ResponseHeaders": [
         {

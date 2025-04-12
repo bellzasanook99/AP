@@ -1,46 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\",
+  "WorkspaceRootPath": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F756DCA-B4B8-482A-B561-A5CCFE8AC275}|Core.Service\\Core.Service.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\core.service\\databeseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F756DCA-B4B8-482A-B561-A5CCFE8AC275}|Core.Service\\Core.Service.csproj|solutionrelative:core.service\\databeseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F756DCA-B4B8-482A-B561-A5CCFE8AC275}|Core.Service\\Core.Service.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\core.service\\procressingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F756DCA-B4B8-482A-B561-A5CCFE8AC275}|Core.Service\\Core.Service.csproj|solutionrelative:core.service\\procressingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\ml.core.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\ml.core.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|solutionrelative:ml.core.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07650EFD-434C-4C68-9E10-55F9357CDCB9}|Core.Database\\Core.Database.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\core.database\\mlbufferdb\\mlbufferdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07650EFD-434C-4C68-9E10-55F9357CDCB9}|Core.Database\\Core.Database.csproj|solutionrelative:core.database\\mlbufferdb\\mlbufferdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE8F68F-BD50-4DBD-A6FD-80C1A462EDB1}|Core.Interface\\Core.Interface.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\core.interface\\iprocressingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE8F68F-BD50-4DBD-A6FD-80C1A462EDB1}|Core.Interface\\Core.Interface.csproj|solutionrelative:core.interface\\iprocressingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07650EFD-434C-4C68-9E10-55F9357CDCB9}|Core.Database\\Core.Database.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\core.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07650EFD-434C-4C68-9E10-55F9357CDCB9}|Core.Database\\Core.Database.csproj|solutionrelative:core.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE21A995-29FA-4A0D-A9A5-063C1407B49D}|Core.Models\\Core.Models.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\core.models\\mdlgoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE21A995-29FA-4A0D-A9A5-063C1407B49D}|Core.Models\\Core.Models.csproj|solutionrelative:core.models\\mdlgoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07650EFD-434C-4C68-9E10-55F9357CDCB9}|Core.Database\\Core.Database.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\core.database\\ex.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{07650EFD-434C-4C68-9E10-55F9357CDCB9}|Core.Database\\Core.Database.csproj|solutionrelative:core.database\\ex.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2F756DCA-B4B8-482A-B561-A5CCFE8AC275}|Core.Service\\Core.Service.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\core.service\\databeseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F756DCA-B4B8-482A-B561-A5CCFE8AC275}|Core.Service\\Core.Service.csproj|solutionrelative:core.service\\databeseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42F692FB-F233-4112-BE51-AA162289577F}|ML.Core.Service\\ML.Core.Service.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\ml.core.service\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42F692FB-F233-4112-BE51-AA162289577F}|ML.Core.Service\\ML.Core.Service.csproj|solutionrelative:ml.core.service\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\ml.core.mvc\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|solutionrelative:ml.core.mvc\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\ml.core.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BCE8F68F-BD50-4DBD-A6FD-80C1A462EDB1}|Core.Interface\\Core.Interface.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\core.interface\\idatabeseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE8F68F-BD50-4DBD-A6FD-80C1A462EDB1}|Core.Interface\\Core.Interface.csproj|solutionrelative:core.interface\\idatabeseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\ml.core.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|solutionrelative:ml.core.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\ml.core.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{386C451D-8E7E-449B-B9BB-BB33C0BC7390}|ML.Core.MVC\\ML.Core.MVC.csproj|solutionrelative:ml.core.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F756DCA-B4B8-482A-B561-A5CCFE8AC275}|Core.Service\\Core.Service.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\core.service\\convertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F756DCA-B4B8-482A-B561-A5CCFE8AC275}|Core.Service\\Core.Service.csproj|solutionrelative:core.service\\convertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42F692FB-F233-4112-BE51-AA162289577F}|ML.Core.Service\\ML.Core.Service.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\ml.core.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42F692FB-F233-4112-BE51-AA162289577F}|ML.Core.Service\\ML.Core.Service.csproj|solutionrelative:ml.core.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE8F68F-BD50-4DBD-A6FD-80C1A462EDB1}|Core.Interface\\Core.Interface.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\core.interface\\iconvertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE8F68F-BD50-4DBD-A6FD-80C1A462EDB1}|Core.Interface\\Core.Interface.csproj|solutionrelative:core.interface\\iconvertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCE8F68F-BD50-4DBD-A6FD-80C1A462EDB1}|Core.Interface\\Core.Interface.csproj|c:\\users\\akeka\\source\\repos\\ml.core.service\\core.interface\\idatabeseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE8F68F-BD50-4DBD-A6FD-80C1A462EDB1}|Core.Interface\\Core.Interface.csproj|solutionrelative:core.interface\\idatabeseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE21A995-29FA-4A0D-A9A5-063C1407B49D}|Core.Models\\Core.Models.csproj|d:\\develop\\gitbot\\ap\\ml.core.service\\core.models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE21A995-29FA-4A0D-A9A5-063C1407B49D}|Core.Models\\Core.Models.csproj|solutionrelative:core.models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MdlGoogle.cs",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\MdlGoogle.cs",
+              "RelativeDocumentMoniker": "Core.Models\\MdlGoogle.cs",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\MdlGoogle.cs",
+              "RelativeToolTip": "Core.Models\\MdlGoogle.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwIMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:15:06.847Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ex.txt",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\ex.txt",
-              "RelativeDocumentMoniker": "Core.Database\\ex.txt",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\ex.txt",
-              "RelativeToolTip": "Core.Database\\ex.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-02-27T19:29:02.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "ML.Core.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\Program.cs",
-              "RelativeToolTip": "ML.Core.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Title": "DatabeseService.cs",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\DatabeseService.cs",
+              "RelativeDocumentMoniker": "Core.Service\\DatabeseService.cs",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\DatabeseService.cs",
+              "RelativeToolTip": "Core.Service\\DatabeseService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T18:59:01.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\Program.cs",
-              "RelativeDocumentMoniker": "ML.Core.Service\\Program.cs",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\Program.cs",
-              "RelativeToolTip": "ML.Core.Service\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T18:58:45.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T15:47:35.376Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DatabaseController.cs",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\Controllers\\DatabaseController.cs",
-              "RelativeDocumentMoniker": "ML.Core.Service\\Controllers\\DatabaseController.cs",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.Service\\Controllers\\DatabaseController.cs",
-              "RelativeToolTip": "ML.Core.Service\\Controllers\\DatabaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T15:58:58.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IDatabeseService.cs",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Interface\\IDatabeseService.cs",
-              "RelativeDocumentMoniker": "Core.Interface\\IDatabeseService.cs",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Interface\\IDatabeseService.cs",
-              "RelativeToolTip": "Core.Interface\\IDatabeseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:56:09.926Z",
-              "EditorCaption": ""
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\Views\\Home\\Result.cshtml",
+              "RelativeDocumentMoniker": "ML.Core.MVC\\Views\\Home\\Result.cshtml",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\Views\\Home\\Result.cshtml",
+              "RelativeToolTip": "ML.Core.MVC\\Views\\Home\\Result.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T03:58:44.046Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DatabeseService.cs",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Service\\DatabeseService.cs",
-              "RelativeDocumentMoniker": "Core.Service\\DatabeseService.cs",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Service\\DatabeseService.cs",
-              "RelativeToolTip": "Core.Service\\DatabeseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAlwBIAAAAMAAAAAAAAAA==",
+              "Title": "ProcressingService.cs",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\ProcressingService.cs",
+              "RelativeDocumentMoniker": "Core.Service\\ProcressingService.cs",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\ProcressingService.cs",
+              "RelativeToolTip": "Core.Service\\ProcressingService.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAvwPYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:55:55.559Z",
+              "WhenOpened": "2025-03-18T03:50:30.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\Class1.cs",
-              "RelativeDocumentMoniker": "Core.Database\\Class1.cs",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\Class1.cs",
-              "RelativeToolTip": "Core.Database\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "FileUploadModel.cs",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\FileUploadModel.cs",
+              "RelativeDocumentMoniker": "Core.Models\\FileUploadModel.cs",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Models\\FileUploadModel.cs",
+              "RelativeToolTip": "Core.Models\\FileUploadModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:55:01.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T03:46:42.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MlbufferDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\MLBufferDB\\MlbufferDbContext.cs",
-              "RelativeDocumentMoniker": "Core.Database\\MLBufferDB\\MlbufferDbContext.cs",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\Core.Database\\MLBufferDB\\MlbufferDbContext.cs",
-              "RelativeToolTip": "Core.Database\\MLBufferDB\\MlbufferDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "IConvertService.cs",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\IConvertService.cs",
+              "RelativeDocumentMoniker": "Core.Interface\\IConvertService.cs",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\IConvertService.cs",
+              "RelativeToolTip": "Core.Interface\\IConvertService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:53:26.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T03:26:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConvertService.cs",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\ConvertService.cs",
+              "RelativeDocumentMoniker": "Core.Service\\ConvertService.cs",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Service\\ConvertService.cs",
+              "RelativeToolTip": "Core.Service\\ConvertService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAvwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:21:18.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ML.Core.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ML.Core.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T03:18:20.577Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ML.Core.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\ML.Core.MVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ML.Core.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAvwGoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T16:57:54.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T03:16:48.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProcressingService.cs",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\IProcressingService.cs",
+              "RelativeDocumentMoniker": "Core.Interface\\IProcressingService.cs",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\IProcressingService.cs",
+              "RelativeToolTip": "Core.Interface\\IProcressingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:47:49.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ML.Core.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ML.Core.Service\\ML.Core.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ML.Core.MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T16:52:52.469Z",
-              "EditorCaption": ""
+              "Title": "IDatabeseService.cs",
+              "DocumentMoniker": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\IDatabeseService.cs",
+              "RelativeDocumentMoniker": "Core.Interface\\IDatabeseService.cs",
+              "ToolTip": "D:\\Develop\\gitbot\\AP\\ML.Core.Service\\Core.Interface\\IDatabeseService.cs",
+              "RelativeToolTip": "Core.Interface\\IDatabeseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:50:29.888Z"
             }
           ]
         }
