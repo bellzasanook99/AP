@@ -1,0 +1,16 @@
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\Database\datatrain.txt
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\ModuleAI.exe
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\ModuleAI.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\ModuleAI.deps.json
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\ModuleAI.runtimeconfig.json
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\ModuleAI.pdb
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\Accord.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\Accord.Extract.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\Accord.Imaging.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\Accord.MachineLearning.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\Accord.Math.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\Accord.Statistics.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\AForge.Imaging.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\OpenCvSharp.dll
+C:\Users\akeka\source\repos\ModuleAI\ModuleAI\bin\Release\net8.0-windows\publish\OpenCvSharp.dll.config

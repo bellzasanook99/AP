@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|c:\\users\\akeka\\source\\repos\\moduleai\\moduleai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|solutionrelative:moduleai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|C:\\Users\\akeka\\source\\repos\\ModuleAI\\moduleai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|solutionrelative:moduleai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|c:\\users\\akeka\\source\\repos\\moduleai\\moduleai\\services\\module01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|solutionrelative:moduleai\\services\\module01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|c:\\users\\akeka\\source\\repos\\moduleai\\moduleai\\moduleai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|solutionrelative:moduleai\\moduleai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|c:\\users\\akeka\\source\\repos\\moduleai\\moduleai\\commons\\httplistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F889D283-D171-4F90-AC34-1EE245CD7D9A}|ModuleAI\\ModuleAI.csproj|solutionrelative:moduleai\\commons\\httplistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleAI",
+              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\ModuleAI.csproj",
+              "RelativeDocumentMoniker": "ModuleAI\\ModuleAI.csproj",
+              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\ModuleAI.csproj",
+              "RelativeToolTip": "ModuleAI\\ModuleAI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T17:56:00.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Module01.cs",
+              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\Services\\Module01.cs",
+              "RelativeDocumentMoniker": "ModuleAI\\Services\\Module01.cs",
+              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\Services\\Module01.cs",
+              "RelativeToolTip": "ModuleAI\\Services\\Module01.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwv5QAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:37:56.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\Form1.cs",
+              "RelativeDocumentMoniker": "ModuleAI\\Form1.cs",
+              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\Form1.cs*",
+              "RelativeToolTip": "ModuleAI\\Form1.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:13:12.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpListenerService.cs",
+              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\Commons\\HttpListenerService.cs",
+              "RelativeDocumentMoniker": "ModuleAI\\Commons\\HttpListenerService.cs",
+              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\Commons\\HttpListenerService.cs",
+              "RelativeToolTip": "ModuleAI\\Commons\\HttpListenerService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAvwE8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:07:12.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\Form1.cs",
+              "RelativeDocumentMoniker": "ModuleAI\\Form1.cs",
+              "ToolTip": "C:\\Users\\akeka\\source\\repos\\ModuleAI\\ModuleAI\\Form1.cs [Design]*",
+              "RelativeToolTip": "ModuleAI\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:58:40.329Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
