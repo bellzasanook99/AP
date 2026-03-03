@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\ML.Core.Service.props" />
-</Project>
